@@ -1,4 +1,4 @@
-# **AES_PixelVault**
+# **AES PixelVault**
 
 AES PixelVault is a comprehensive data encryption system that handles both encryption and decryption, as well as encoding and decoding. It secures text files (such as PDFs) by first encrypting the content using AES, converting the text into binary, and encoding these 0s and 1s into black and white pixels within video frames. The encoded frames are concatenated into a video for secure storage. The project also includes a decryption and decoding module to reverse the process, extracting the original data from the video. This novel approach merges cryptography with video processing for a unique and secure method of data storage and retrieval.
 
